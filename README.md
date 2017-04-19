@@ -12,7 +12,7 @@ ColorHub is an Android Application that you select Material, Flat, Social, Metro
 
 # Deprecated
 
-This project is deprecated. This project will go on with [Antrikod](https://github.com/AntriKodSoft/ColorHub) .
+This project is deprecated. This project will go on with [Antrikod](https://github.com/AntriKodSoft/ColorHub) . Please Check [it](https://github.com/AntriKodSoft) out.
 
 
 
